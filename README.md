@@ -4,7 +4,7 @@
 - Currently intern at the Centro Estadual de Vigilância em Saúde, performing the assembly COVID-19 graphics with Python
 
 <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/ryankologeski/"><img align="center" alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/ryankologeski/" target="_blank"><img align="center" alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kologeski.ap@gmail.com"><img align="center" alt="HTML5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div><br/>
 
