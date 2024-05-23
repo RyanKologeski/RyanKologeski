@@ -9,7 +9,7 @@
     <a href="mailto:kologeski.ap@gmail.com"><img align="center" alt="HTML5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div><br/>
 
-![Ryan Kologeski GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKologeski&theme=dracula&show_icons=true&title_color=ff0000&text_color=00ff00&icon_color=0000ff&bg_color=000000&border_color=ffffff)
+![Ryan Kologeski GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKologeski&theme=dracula&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=30,0f4f4f,0f8b8b&border_color=0fba7b)
 
 ### Tech Stack
 ------------------------------------------------------------------------
