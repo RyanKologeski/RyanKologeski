@@ -2,14 +2,14 @@
 ------------------------------------------------------------------------
 
 - Student of Biomedical Informatics at UFCSPA
-- Currently intern at the Centro Estadual de Vigilância em Saúde, performing the assembly COVID-19 graphics with Python
+- Currently intern at Vent Digital, working on data analyst and data engineering.
 
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/ryankologeski/" target="_blank"><img align="center" alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:kologeski.ap@gmail.com"><img align="center" alt="HTML5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div><br/>
 
-![Ryan Kologeski GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKologeski&theme=midnight-purple&show_icons=true)
+![RyanKologeski GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanKologeski&theme=dracula&show_icons=true)
 
 ### Tech Stack
 ------------------------------------------------------------------------
